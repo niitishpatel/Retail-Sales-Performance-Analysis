@@ -1,0 +1,304 @@
+Order_ID,Customer_ID,Product,Product_Category,City,Order_Date,Quantity,Unit_Price,Revenue,Payment_Method
+ORD10001,CUST1061,T-Shirt,Clothing,Noida,2025-01-14,1,510,510,UPI
+ORD10002,CUST1049,Pen Pack,Stationery,Ghaziabad,2025-01-06,4,127,508,UPI
+ORD10003,CUST1055,Water Bottle,Home & Kitchen,Meerut,2025-06-01,1,392,392,Credit Card
+ORD10004,CUST1001,Water Bottle,Home & Kitchen,Lucknow,2025-03-02,3,329,987,Credit Card
+ORD10005,CUST1018,Water Bottle,Home & Kitchen,Meerut,2025-05-06,3,386,1158,UPI
+ORD10006,CUST1069,Calculator,Stationery,Meerut,2025-12-28,4,440,1760,Credit Card
+ORD10007,CUST1019,Wireless Mouse,Electronics,Kanpur,2025-10-27,4,679,2716,Debit Card
+ORD10008,CUST1053,Pen Pack,Stationery,Varanasi,2025-02-14,4,122,488,Net Banking
+ORD10009,CUST1077,Webcam,Electronics,Noida,2025-01-05,2,2250,4500,Credit Card
+ORD10010,CUST1040,Storage Box,Home & Kitchen,,2025-05-08,1,304,304,Credit Card
+ORD10011,CUST1048,Marker Set,Stationery,Ghaziabad,2025-05-08,1,171,171,UPI
+ORD10012,CUST1030,Pen Pack,Stationery,Delhi,2025-11-04,5,125,625,UPI
+ORD10013,CUST1045,Lunch Box,Home & Kitchen,Delhi,2025-10-19,3,475,1425,Cash
+ORD10014,CUST1056,Desk Lamp,Home & Kitchen,Delhi,2025-08-15,3,1008,3024,UPI
+ORD10015,CUST1008,Notebook,Stationery,Noida,2025-07-25,3,81,243,UPI
+ORD10016,CUST1044,Lunch Box,Home & Kitchen,Kanpur,2025-04-01,4,460,1840,Net Banking
+ORD10017,CUST1004,Notebook,Stationery,Lucknow,2025-01-12,2,98,196,Net Banking
+ORD10018,CUST1013,Storage Box,Home & Kitchen,Ghaziabad,2025-12-08,3,296,888,UPI
+ORD10019,CUST1032,Desk Lamp,Home & Kitchen,Meerut,2025-08-10,5,888,4440,Credit Card
+ORD10020,CUST1066,Jeans,Clothing,Noida,2025-06-01,2,1486,2972,Debit Card
+ORD10021,CUST1065,Jeans,Clothing,Kanpur,2025-05-20,1,1686,1711,Credit Card
+ORD10022,CUST1036,Notebook,Stationery,Lucknow,2025-05-14,2,86,172,Cash
+ORD10023,CUST1021,Notebook,Stationery,Meerut,2025-06-30,5,95,475,UPI
+ORD10024,CUST1033,Headphones,Electronics,Lucknow,2025-05-21,5,1804,9020,UPI
+ORD10025,CUST1066,USB Drive,Electronics,Meerut,2025-06-03,5,542,2710,Credit Card
+ORD10026,CUST1077,Backpack,Clothing,Meerut,2025-01-02,2,1039,2078,Debit Card
+ORD10027,CUST1049,Pen Pack,Stationery,Agra,2025-09-04,4,117,468,Credit Card
+ORD10028,CUST1017,Pen Pack,Stationery,Ghaziabad,2025-01-24,2,116,232,Debit Card
+ORD10029,CUST1079,T-Shirt,Clothing,Kanpur,2025-08-15,3,468,1404,UPI
+ORD10030,CUST1077,Keyboard,Electronics,Agra,2025-07-28,2,1117,2234,UPI
+ORD10031,CUST1067,USB Drive,Electronics,Agra,2025-08-23,5,597,2985,Net Banking
+ORD10032,CUST1049,Storage Box,Home & Kitchen,Agra,2025-03-25,4,261,1044,UPI
+ORD10033,CUST1070,Headphones,Electronics,Varanasi,2025-01-30,3,1638,4914,UPI
+ORD10034,CUST1059,USB Drive,Electronics,Agra,2025-12-30,3,604,1812,UPI
+ORD10035,CUST1039,Calculator,Stationery,Meerut,2025-07-31,5,463,2315,Cash
+ORD10036,CUST1022,Hoodie,Clothing,Agra,2025-06-02,2,1265,2530,Net Banking
+ORD10037,CUST1072,Keyboard,Electronics,Meerut,2025-04-09,4,1129,4516,UPI
+ORD10038,CUST1076,T-Shirt,Clothing,Meerut,2025-07-07,1,508,508,Debit Card
+ORD10039,CUST1075,Keyboard,Electronics,Agra,2025-03-18,5,996,4980,UPI
+ORD10040,CUST1022,File Folder,Stationery,Meerut,2025-03-07,4,75,300,UPI
+ORD10041,CUST1048,Desk Lamp,Home & Kitchen,Delhi,2025-01-12,1,933,933,UPI
+ORD10042,CUST1004,Pen Pack,Stationery,Ghaziabad,2025-03-20,1,114,114,Debit Card
+ORD10043,CUST1030,Storage Box,Home & Kitchen,Kanpur,2025-02-11,3,259,777,Credit Card
+ORD10044,CUST1022,Calculator,Stationery,Varanasi,2025-02-17,5,407,2035,UPI
+ORD10045,CUST1049,File Folder,Stationery,Meerut,2025-03-19,2,70,140,UPI
+ORD10046,CUST1075,Mug,Home & Kitchen,Meerut,2025-01-18,1,231,231,Credit Card
+ORD10047,CUST1001,Water Bottle,Home & Kitchen,Delhi,2025-09-08,2,387,774,Debit Card
+ORD10048,CUST1027,Storage Box,Home & Kitchen,Varanasi,2025-06-06,1,271,271,Debit Card
+ORD10049,CUST1069,Marker Set,Stationery,Lucknow,2025-06-16,5,185,925,UPI
+ORD10050,CUST1012,Storage Box,Home & Kitchen,Ghaziabad,2025-01-20,3,303,909,Debit Card
+ORD10051,CUST1078,Water Bottle,Home & Kitchen,Meerut,2025-08-08,2,324,648,Credit Card
+ORD10052,CUST1014,Pen Pack,Stationery,Varanasi,2025-04-24,2,133,266,Credit Card
+ORD10053,CUST1061,File Folder,Stationery,Meerut,2025-11-28,5,75,375,Debit Card
+ORD10054,CUST1023,Keyboard,Electronics,Noida,2025-05-02,1,1116,1116,Net Banking
+ORD10055,CUST1025,Desk Lamp,Home & Kitchen,Agra,2025-06-19,5,901,4505,Debit Card
+ORD10056,CUST1058,Lunch Box,Home & Kitchen,Meerut,2025-11-16,4,480,1920,UPI
+ORD10057,CUST1043,Storage Box,Home & Kitchen,Delhi,2025-12-20,5,301,1505,UPI
+ORD10058,CUST1030,Marker Set,Stationery,Ghaziabad,2025-11-21,1,179,179,Debit Card
+ORD10059,CUST1053,Notebook,Stationery,Ghaziabad,2025-11-25,2,99,198,Net Banking
+ORD10060,CUST1056,Water Bottle,Home & Kitchen,Kanpur,2025-02-01,3,359,1077,UPI
+ORD10061,CUST1028,Marker Set,Stationery,Agra,2025-04-27,3,179,537,Credit Card
+ORD10062,CUST1060,Water Bottle,Home & Kitchen,Ghaziabad,2025-02-14,3,321,963,UPI
+ORD10063,CUST1068,Calculator,Stationery,Noida,2025-10-05,2,436,872,Credit Card
+ORD10064,CUST1032,Pen Pack,Stationery,,2025-10-09,3,118,354,Credit Card
+ORD10065,CUST1046,Water Bottle,Home & Kitchen,Kanpur,2025-01-01,4,335,1340,UPI
+ORD10066,CUST1036,File Folder,Stationery,Agra,2025-10-05,3,67,201,Debit Card
+ORD10067,CUST1002,Hoodie,Clothing,Kanpur,2025-01-18,2,1346,2692,UPI
+ORD10068,CUST1012,Water Bottle,Home & Kitchen,Noida,2025-07-08,1,364,364,Debit Card
+ORD10069,CUST1022,Wireless Mouse,Electronics,Ghaziabad,2025-06-25,4,664,2656,UPI
+ORD10070,CUST1001,Backpack,Clothing,Meerut,2025-08-05,1,939,939,Cash
+ORD10071,CUST1015,Backpack,Clothing,Agra,2025-04-23,2,923,1846,Net Banking
+ORD10072,CUST1003,Webcam,Electronics,Kanpur,2025-12-06,4,2417,9668,Debit Card
+ORD10073,CUST1063,Calculator,Stationery,Ghaziabad,2025-11-20,5,429,2145,Net Banking
+ORD10074,CUST1045,Headphones,Electronics,Lucknow,2025-02-11,5,1995,9975,Net Banking
+ORD10075,CUST1060,Wireless Mouse,Electronics,Meerut,2025-06-27,1,639,639,UPI
+ORD10076,CUST1013,Desk Lamp,Home & Kitchen,Varanasi,2025-10-17,5,894,4470,Credit Card
+ORD10077,CUST1056,Storage Box,Home & Kitchen,Varanasi,2025-12-19,1,266,266,Credit Card
+ORD10078,CUST1052,Backpack,Clothing,Ghaziabad,2025-07-09,5,1103,5515,Debit Card
+ORD10079,CUST1042,File Folder,Stationery,Kanpur,2025-02-12,1,72,72,UPI
+ORD10080,CUST1070,Calculator,Stationery,Ghaziabad,2025-01-22,4,447,1788,Debit Card
+ORD10081,CUST1077,Jeans,Clothing,Kanpur,2025-05-22,3,1577,4731,Net Banking
+ORD10082,CUST1057,Pen Pack,Stationery,Meerut,2025-11-10,5,121,605,Cash
+ORD10083,CUST1068,Water Bottle,Home & Kitchen,Delhi,2025-11-28,1,345,345,UPI
+ORD10084,CUST1055,Headphones,Electronics,Noida,2025-09-19,1,1791,1791,UPI
+ORD10085,CUST1019,T-Shirt,Clothing,Agra,2025-09-13,5,455,2275,UPI
+ORD10086,CUST1019,Webcam,Electronics,Kanpur,2025-05-24,5,2397,11985,UPI
+ORD10087,CUST1017,Hoodie,Clothing,Lucknow,2025-01-29,4,1440,5760,UPI
+ORD10088,CUST1077,USB Drive,Electronics,Varanasi,2025-01-08,5,614,3070,Cash
+ORD10089,CUST1001,Calculator,Stationery,Noida,2025-09-16,1,498,498,Net Banking
+ORD10090,CUST1078,Pen Pack,Stationery,Meerut,2025-02-18,3,108,324,Credit Card
+ORD10091,CUST1021,Water Bottle,Home & Kitchen,Agra,2025-06-06,3,375,1125,UPI
+ORD10092,CUST1025,Headphones,Electronics,Agra,2025-08-19,3,1676,5028,Cash
+ORD10093,CUST1062,T-Shirt,Clothing,Varanasi,2025-12-28,5,489,2445,Cash
+ORD10094,CUST1058,Jeans,Clothing,Agra,2025-10-20,2,1710,3420,Cash
+ORD10095,CUST1048,Hoodie,Clothing,Noida,2025-10-07,2,1332,2664,UPI
+ORD10096,CUST1037,Cap,Clothing,Agra,2025-04-17,3,334,1002,Cash
+ORD10097,CUST1063,Notebook,Stationery,Ghaziabad,2025-08-02,4,90,360,Net Banking
+ORD10098,CUST1009,USB Drive,Electronics,Varanasi,2025-09-13,5,503,2515,Net Banking
+ORD10099,CUST1020,Keyboard,Electronics,Lucknow,2025-12-01,1,1181,1181,Debit Card
+ORD10100,CUST1076,Mug,Home & Kitchen,Noida,2025-02-11,4,217,868,UPI
+ORD10101,CUST1025,Jeans,Clothing,Varanasi,2025-02-27,3,1517,4551,UPI
+ORD10102,CUST1004,Wireless Mouse,Electronics,Agra,2025-05-09,4,646,2584,Cash
+ORD10103,CUST1014,Wireless Mouse,Electronics,Lucknow,2025-04-15,1,674,674,UPI
+ORD10104,CUST1043,Webcam,Electronics,Kanpur,2025-06-02,1,2347,2347,UPI
+ORD10105,CUST1018,T-Shirt,Clothing,Delhi,2025-03-18,2,559,1118,UPI
+ORD10106,CUST1005,Keyboard,Electronics,Noida,2025-10-25,1,1175,1175,UPI
+ORD10107,CUST1029,Keyboard,Electronics,Ghaziabad,2025-12-30,4,1067,4268,Net Banking
+ORD10108,CUST1056,Headphones,Electronics,Lucknow,2025-11-11,2,1871,3742,UPI
+ORD10109,CUST1016,Water Bottle,Home & Kitchen,Delhi,2025-08-08,2,362,724,Cash
+ORD10110,CUST1015,Hoodie,Clothing,Meerut,2025-08-10,5,1331,6655,UPI
+ORD10111,CUST1038,Desk Lamp,Home & Kitchen,Noida,2025-05-26,5,1036,5180,Cash
+ORD10112,CUST1065,Hoodie,Clothing,Agra,2025-05-15,4,1315,5260,Debit Card
+ORD10113,CUST1075,Marker Set,Stationery,Varanasi,2025-03-29,2,199,398,Cash
+ORD10114,CUST1039,Notebook,Stationery,Varanasi,2025-05-05,1,98,98,Credit Card
+ORD10115,CUST1005,Mug,Home & Kitchen,,2025-08-10,3,231,693,Debit Card
+ORD10116,CUST1029,Calculator,Stationery,Agra,2025-05-04,1,414,414,Debit Card
+ORD10117,CUST1064,Keyboard,Electronics,Noida,2025-04-18,5,1001,5005,Credit Card
+ORD10118,CUST1075,Water Bottle,Home & Kitchen,Delhi,2025-05-07,4,383,1532,UPI
+ORD10119,CUST1063,Cap,Clothing,Delhi,2025-07-18,3,315,945,UPI
+ORD10120,CUST1080,Calculator,Stationery,Delhi,2025-09-30,5,456,2280,UPI
+ORD10121,CUST1038,Keyboard,Electronics,Varanasi,2025-10-06,3,1187,3561,Cash
+ORD10122,CUST1057,USB Drive,Electronics,Kanpur,2025-06-18,3,574,1722,UPI
+ORD10123,CUST1063,Backpack,Clothing,Noida,2025-06-15,3,906,2718,Debit Card
+ORD10124,CUST1063,Keyboard,Electronics,Noida,2025-02-07,2,1001,2002,Debit Card
+ORD10125,CUST1075,Pen Pack,Stationery,Ghaziabad,2025-12-14,4,115,460,UPI
+ORD10126,CUST1057,Backpack,Clothing,Varanasi,2025-10-23,2,957,1914,Cash
+ORD10127,CUST1044,Marker Set,Stationery,Meerut,2025-12-25,5,165,825,Debit Card
+ORD10128,CUST1027,Jeans,Clothing,Noida,2025-11-30,3,1763,5289,Credit Card
+ORD10129,CUST1078,Storage Box,Home & Kitchen,Meerut,2025-04-23,2,256,512,Debit Card
+ORD10130,CUST1012,Pen Pack,Stationery,Agra,2025-03-16,1,130,130,Cash
+ORD10131,CUST1062,Keyboard,Electronics,,2025-03-25,3,1213,3639,UPI
+ORD10132,CUST1013,Water Bottle,Home & Kitchen,Delhi,2025-09-08,3,345,1035,UPI
+ORD10133,CUST1079,Cap,Clothing,Meerut,2025-01-06,3,323,969,Cash
+ORD10134,CUST1041,Notebook,Stationery,Delhi,2025-09-30,4,93,372,Credit Card
+ORD10135,CUST1055,Calculator,Stationery,Ghaziabad,2025-05-11,2,489,978,UPI
+ORD10136,CUST1011,Keyboard,Electronics,Agra,2025-04-13,4,1229,4916,UPI
+ORD10137,CUST1005,Mug,Home & Kitchen,Ghaziabad,2025-04-14,4,225,900,UPI
+ORD10138,CUST1036,Webcam,Electronics,Ghaziabad,2025-08-28,5,2305,11525,Credit Card
+ORD10139,CUST1076,Storage Box,Home & Kitchen,Agra,2025-09-23,4,289,1156,UPI
+ORD10140,CUST1042,Hoodie,Clothing,Meerut,2025-03-15,4,1212,4848,UPI
+ORD10141,CUST1005,T-Shirt,Clothing,Meerut,2025-07-11,4,533,2132,Credit Card
+ORD10142,CUST1026,File Folder,Stationery,Ghaziabad,2025-01-31,3,75,225,UPI
+ORD10143,CUST1066,Webcam,Electronics,Varanasi,2025-06-26,3,2483,7449,UPI
+ORD10144,CUST1059,Pen Pack,Stationery,Meerut,2025-01-08,3,118,354,UPI
+ORD10145,CUST1073,Headphones,Electronics,Lucknow,2025-07-06,5,2010,10050,Debit Card
+ORD10146,CUST1054,Jeans,Clothing,Kanpur,2025-12-02,2,1600,3200,UPI
+ORD10147,CUST1011,File Folder,Stationery,Delhi,2025-09-25,1,68,68,UPI
+ORD10148,CUST1061,USB Drive,Electronics,Meerut,2025-05-05,3,609,1827,Credit Card
+ORD10149,CUST1079,Lunch Box,Home & Kitchen,Agra,2025-02-22,2,493,986,Cash
+ORD10150,CUST1034,Backpack,Clothing,Agra,2025-12-31,3,939,2817,UPI
+ORD10151,CUST1046,Notebook,Stationery,Agra,2025-06-04,1,90,90,Credit Card
+ORD10152,CUST1032,Mug,Home & Kitchen,Ghaziabad,2025-08-22,4,229,916,Cash
+ORD10153,CUST1065,USB Drive,Electronics,Noida,2025-08-12,2,506,1012,UPI
+ORD10154,CUST1057,Water Bottle,Home & Kitchen,Kanpur,2025-04-01,4,352,1408,UPI
+ORD10155,CUST1080,USB Drive,Electronics,Agra,2025-10-04,3,528,1584,UPI
+ORD10156,CUST1058,Wireless Mouse,Electronics,Lucknow,2025-09-24,5,692,3460,Debit Card
+ORD10157,CUST1040,Webcam,Electronics,Meerut,2025-04-21,1,2606,2606,Cash
+ORD10158,CUST1050,Jeans,Clothing,Delhi,2025-08-18,1,1449,1449,UPI
+ORD10159,CUST1049,USB Drive,Electronics,Varanasi,2025-05-12,4,575,2300,UPI
+ORD10160,CUST1057,Calculator,Stationery,Delhi,2025-12-07,4,411,1644,Debit Card
+ORD10161,CUST1048,Water Bottle,Home & Kitchen,Meerut,2025-08-28,4,347,1388,Net Banking
+ORD10162,CUST1005,Lunch Box,Home & Kitchen,Delhi,2025-06-26,3,488,1464,Credit Card
+ORD10163,CUST1029,File Folder,Stationery,Agra,2025-10-17,1,65,65,Cash
+ORD10164,CUST1018,Headphones,Electronics,Ghaziabad,2025-10-26,4,1898,7592,UPI
+ORD10165,CUST1016,T-Shirt,Clothing,Agra,2025-05-03,4,538,2152,UPI
+ORD10166,CUST1024,Calculator,Stationery,Meerut,2025-01-21,2,416,832,UPI
+ORD10167,CUST1038,Webcam,Electronics,Delhi,2025-05-16,2,2251,4502,Credit Card
+ORD10168,CUST1013,Mug,Home & Kitchen,Varanasi,2025-08-14,1,208,208,Debit Card
+ORD10169,CUST1023,Backpack,Clothing,Ghaziabad,2025-05-18,4,1035,4140,Debit Card
+ORD10170,CUST1008,Marker Set,Stationery,Noida,2025-01-09,4,194,776,Net Banking
+ORD10171,CUST1006,T-Shirt,Clothing,Ghaziabad,2025-03-14,3,547,1641,Cash
+ORD10172,CUST1052,Calculator,Stationery,Meerut,2025-09-24,5,456,2280,UPI
+ORD10173,CUST1042,Storage Box,Home & Kitchen,Meerut,2025-08-17,2,295,590,UPI
+ORD10174,CUST1045,Calculator,Stationery,Noida,2025-02-10,5,434,2170,UPI
+ORD10175,CUST1058,Pen Pack,Stationery,Noida,2025-12-21,4,129,516,Net Banking
+ORD10176,CUST1006,Desk Lamp,Home & Kitchen,Agra,2025-12-10,5,865,4325,UPI
+ORD10177,CUST1010,Notebook,Stationery,Noida,2025-04-05,3,89,267,Net Banking
+ORD10178,CUST1077,File Folder,Stationery,Varanasi,2025-03-29,4,68,272,Credit Card
+ORD10179,CUST1054,T-Shirt,Clothing,Kanpur,2025-12-16,1,516,516,Credit Card
+ORD10180,CUST1067,Storage Box,Home & Kitchen,Ghaziabad,2025-12-20,4,275,1100,Credit Card
+ORD10181,CUST1060,Notebook,Stationery,Agra,2025-06-01,2,89,178,UPI
+ORD10182,CUST1055,Desk Lamp,Home & Kitchen,Meerut,2025-04-14,1,951,951,Credit Card
+ORD10183,CUST1041,Headphones,Electronics,Delhi,2025-08-31,3,1998,5994,UPI
+ORD10184,CUST1018,Cap,Clothing,Lucknow,2025-11-11,1,276,276,Net Banking
+ORD10185,CUST1062,Headphones,Electronics,Kanpur,2025-04-29,5,1664,8320,UPI
+ORD10186,CUST1078,Backpack,Clothing,Lucknow,2025-11-07,4,975,3900,Credit Card
+ORD10187,CUST1024,Backpack,Clothing,Meerut,2025-09-11,4,957,3828,UPI
+ORD10188,CUST1051,Cap,Clothing,Varanasi,2025-05-20,3,279,837,Credit Card
+ORD10189,CUST1029,Backpack,Clothing,Kanpur,2025-02-06,3,1009,3027,Net Banking
+ORD10190,CUST1062,Hoodie,Clothing,Delhi,2025-11-19,2,1365,2730,Cash
+ORD10191,CUST1079,Marker Set,Stationery,Lucknow,2025-10-17,2,184,368,UPI
+ORD10192,CUST1066,USB Drive,Electronics,Agra,2025-11-05,4,515,2060,Net Banking
+ORD10193,CUST1013,Keyboard,Electronics,Ghaziabad,2025-11-12,1,1121,1121,UPI
+ORD10194,CUST1017,Water Bottle,Home & Kitchen,Meerut,2025-07-11,5,329,1645,Credit Card
+ORD10195,CUST1044,Marker Set,Stationery,Varanasi,2025-05-04,5,177,885,Cash
+ORD10196,CUST1062,Backpack,Clothing,Meerut,2025-05-15,2,1042,2084,Net Banking
+ORD10197,CUST1063,Cap,Clothing,Lucknow,2025-07-26,5,317,1585,UPI
+ORD10198,CUST1024,Desk Lamp,Home & Kitchen,Delhi,2025-03-11,3,999,2997,Debit Card
+ORD10199,CUST1040,Backpack,Clothing,Meerut,2025-09-27,2,1026,2052,Debit Card
+ORD10200,CUST1020,USB Drive,Electronics,Varanasi,2025-03-17,1,558,558,Debit Card
+ORD10201,CUST1013,Keyboard,Electronics,Noida,2025-04-28,2,1086,2172,Debit Card
+ORD10202,CUST1024,Storage Box,Home & Kitchen,Kanpur,2025-12-11,5,305,1525,Credit Card
+ORD10203,CUST1061,Storage Box,Home & Kitchen,Varanasi,2025-12-12,5,280,1400,UPI
+ORD10204,CUST1008,Desk Lamp,Home & Kitchen,Agra,2025-07-22,4,884,3536,Net Banking
+ORD10205,CUST1035,Keyboard,Electronics,Noida,2025-09-02,2,1058,2116,Credit Card
+ORD10206,CUST1072,Webcam,Electronics,Kanpur,2025-02-26,4,2315,9260,Debit Card
+ORD10207,CUST1044,Lunch Box,Home & Kitchen,Varanasi,2025-05-18,5,479,2395,Net Banking
+ORD10208,CUST1055,Marker Set,Stationery,Lucknow,2025-09-10,5,201,1005,UPI
+ORD10209,CUST1021,Marker Set,Stationery,Delhi,2025-10-09,2,187,374,UPI
+ORD10210,CUST1044,Hoodie,Clothing,Lucknow,2025-03-03,4,1413,5652,Credit Card
+ORD10211,CUST1065,Notebook,Stationery,Noida,2025-03-18,3,100,300,Credit Card
+ORD10212,CUST1028,Wireless Mouse,Electronics,Delhi,2025-06-21,5,683,3415,Credit Card
+ORD10213,CUST1054,Storage Box,Home & Kitchen,Delhi,2025-06-13,1,281,281,UPI
+ORD10214,CUST1015,Storage Box,Home & Kitchen,Ghaziabad,2025-04-15,2,289,578,Credit Card
+ORD10215,CUST1078,Storage Box,Home & Kitchen,Kanpur,2025-05-29,4,313,1252,Credit Card
+ORD10216,CUST1080,T-Shirt,Clothing,Delhi,2025-02-18,1,539,539,UPI
+ORD10217,CUST1013,Cap,Clothing,Kanpur,2025-01-16,5,273,1365,Debit Card
+ORD10218,CUST1032,Calculator,Stationery,Lucknow,2025-02-07,5,417,2085,UPI
+ORD10219,CUST1047,Backpack,Clothing,Kanpur,2025-02-19,2,1023,2046,UPI
+ORD10220,CUST1044,Lunch Box,Home & Kitchen,Varanasi,2025-04-05,5,549,2745,UPI
+ORD10221,CUST1080,USB Drive,Electronics,Kanpur,2025-10-15,1,565,565,Net Banking
+ORD10222,CUST1018,Marker Set,Stationery,Kanpur,2025-03-07,3,170,510,Credit Card
+ORD10223,CUST1044,Notebook,Stationery,Noida,2025-06-18,3,85,255,Debit Card
+ORD10224,CUST1016,Headphones,Electronics,Ghaziabad,2025-06-05,4,1720,6880,Credit Card
+ORD10225,CUST1052,USB Drive,Electronics,Meerut,2025-08-28,2,522,1044,Debit Card
+ORD10226,CUST1036,Backpack,Clothing,Delhi,2025-09-10,4,901,3604,UPI
+ORD10227,CUST1020,Desk Lamp,Home & Kitchen,Agra,2025-02-13,5,858,4290,UPI
+ORD10228,CUST1031,Desk Lamp,Home & Kitchen,Noida,2025-03-28,2,996,1992,Cash
+ORD10229,CUST1046,Notebook,Stationery,Varanasi,2025-05-19,5,93,465,Cash
+ORD10230,CUST1047,File Folder,Stationery,Ghaziabad,2025-08-08,1,74,74,UPI
+ORD10231,CUST1020,Headphones,Electronics,Varanasi,2025-12-30,1,1751,1751,Debit Card
+ORD10232,CUST1037,Lunch Box,Home & Kitchen,Kanpur,2025-12-21,4,505,2020,UPI
+ORD10233,CUST1039,Pen Pack,Stationery,Meerut,2025-02-05,5,120,600,UPI
+ORD10234,CUST1010,Jeans,Clothing,Agra,2025-02-13,5,1663,8315,UPI
+ORD10235,CUST1034,Cap,Clothing,Meerut,2025-07-31,1,296,296,UPI
+ORD10236,CUST1011,File Folder,Stationery,Meerut,2025-03-17,3,71,213,Credit Card
+ORD10237,CUST1023,USB Drive,Electronics,Delhi,2025-11-05,3,529,1587,UPI
+ORD10238,CUST1045,Notebook,Stationery,Agra,2025-05-28,3,83,249,UPI
+ORD10239,CUST1016,Jeans,Clothing,,2025-07-06,2,1577,3154,UPI
+ORD10240,CUST1055,T-Shirt,Clothing,Delhi,2025-09-04,5,539,2695,UPI
+ORD10241,CUST1041,Notebook,Stationery,Ghaziabad,2025-01-24,1,85,85,UPI
+ORD10242,CUST1033,Lunch Box,Home & Kitchen,Ghaziabad,2025-05-12,3,457,1371,UPI
+ORD10243,CUST1073,Calculator,Stationery,Ghaziabad,2025-04-18,3,474,1422,UPI
+ORD10244,CUST1046,File Folder,Stationery,Kanpur,2025-02-12,3,77,231,Credit Card
+ORD10245,CUST1022,Water Bottle,Home & Kitchen,Lucknow,2025-12-22,2,337,674,Cash
+ORD10246,CUST1053,Backpack,Clothing,Noida,2025-12-31,1,974,974,Credit Card
+ORD10247,CUST1075,Notebook,Stationery,Lucknow,2025-08-04,2,82,164,Debit Card
+ORD10248,CUST1016,File Folder,Stationery,Kanpur,2025-09-25,5,69,345,UPI
+ORD10249,CUST1051,File Folder,Stationery,Lucknow,2025-03-14,1,76,76,Net Banking
+ORD10250,CUST1024,Backpack,Clothing,Lucknow,2025-04-14,5,1018,5090,UPI
+ORD10251,CUST1051,Jeans,Clothing,Varanasi,2025-01-17,3,1561,4683,UPI
+ORD10252,CUST1061,Keyboard,Electronics,Kanpur,2025-08-25,5,1047,5235,Net Banking
+ORD10253,CUST1006,Marker Set,Stationery,Lucknow,2025-06-15,4,196,784,UPI
+ORD10254,CUST1018,Headphones,Electronics,Kanpur,2025-07-18,2,1678,3356,UPI
+ORD10255,CUST1080,Jeans,Clothing,Lucknow,2025-05-25,1,1531,1531,UPI
+ORD10256,CUST1033,Webcam,Electronics,Kanpur,2025-01-06,1,2649,2649,Net Banking
+ORD10257,CUST1054,Marker Set,Stationery,Agra,2025-07-19,3,187,561,Credit Card
+ORD10258,CUST1033,Storage Box,Home & Kitchen,Meerut,2025-06-29,4,282,1128,Credit Card
+ORD10259,CUST1041,Lunch Box,Home & Kitchen,Delhi,2025-04-07,2,525,1050,Cash
+ORD10260,CUST1004,USB Drive,Electronics,Lucknow,2025-02-06,5,520,2600,Net Banking
+ORD10261,CUST1031,Water Bottle,Home & Kitchen,Noida,2025-06-26,2,387,774,UPI
+ORD10262,CUST1010,Storage Box,Home & Kitchen,Lucknow,2025-04-11,1,295,295,Credit Card
+ORD10263,CUST1004,Calculator,Stationery,Lucknow,2025-11-11,5,426,2130,Cash
+ORD10264,CUST1038,File Folder,Stationery,Meerut,2025-12-21,3,66,198,UPI
+ORD10265,CUST1023,Pen Pack,Stationery,Ghaziabad,2025-11-18,4,115,460,Net Banking
+ORD10266,CUST1068,Mug,Home & Kitchen,Ghaziabad,2025-01-13,3,213,639,UPI
+ORD10267,CUST1066,Keyboard,Electronics,Noida,2025-11-02,1,1091,1091,UPI
+ORD10268,CUST1061,Marker Set,Stationery,Varanasi,2025-09-09,4,187,748,UPI
+ORD10269,CUST1075,Storage Box,Home & Kitchen,Lucknow,2025-11-17,1,262,262,Credit Card
+ORD10270,CUST1002,Storage Box,Home & Kitchen,Kanpur,2025-02-20,1,306,306,Net Banking
+ORD10271,CUST1014,Lunch Box,Home & Kitchen,Meerut,2025-12-10,2,467,934,UPI
+ORD10272,CUST1076,Pen Pack,Stationery,Noida,2025-05-25,4,112,448,Cash
+ORD10273,CUST1047,Keyboard,Electronics,Lucknow,2025-05-24,5,1076,5380,UPI
+ORD10274,CUST1008,Mug,Home & Kitchen,Ghaziabad,2025-07-31,2,246,492,Debit Card
+ORD10275,CUST1044,Calculator,Stationery,Lucknow,2025-09-05,2,487,974,UPI
+ORD10276,CUST1072,Webcam,Electronics,Meerut,2025-06-12,3,2600,7800,UPI
+ORD10277,CUST1066,Webcam,Electronics,Lucknow,2025-01-28,3,2550,7650,Debit Card
+ORD10278,CUST1055,Backpack,Clothing,Noida,2025-09-15,1,983,983,UPI
+ORD10279,CUST1047,USB Drive,Electronics,Ghaziabad,2025-12-11,4,564,2256,Cash
+ORD10280,CUST1015,Jeans,Clothing,Meerut,2025-06-13,3,1759,5277,UPI
+ORD10281,CUST1058,File Folder,Stationery,Noida,2025-05-13,5,74,370,UPI
+ORD10282,CUST1011,Hoodie,Clothing,Agra,2025-04-09,4,1246,4984,Debit Card
+ORD10283,CUST1049,Webcam,Electronics,Ghaziabad,2025-11-21,3,2617,7851,Debit Card
+ORD10284,CUST1053,USB Drive,Electronics,Noida,2025-02-11,2,537,1074,Credit Card
+ORD10285,CUST1065,USB Drive,Electronics,Delhi,2025-02-03,5,511,2555,Credit Card
+ORD10286,CUST1018,Desk Lamp,Home & Kitchen,Ghaziabad,2025-10-12,4,1042,4168,Credit Card
+ORD10287,CUST1075,Notebook,Stationery,Kanpur,2025-08-31,2,88,176,Debit Card
+ORD10288,CUST1037,Calculator,Stationery,Kanpur,2025-07-22,1,431,431,UPI
+ORD10289,CUST1031,Lunch Box,Home & Kitchen,Noida,2025-03-30,5,522,2610,Debit Card
+ORD10290,CUST1006,Storage Box,Home & Kitchen,Meerut,2025-03-28,4,304,1216,UPI
+ORD10291,CUST1009,Pen Pack,Stationery,Varanasi,2025-09-05,1,109,109,UPI
+ORD10292,CUST1044,Storage Box,Home & Kitchen,Lucknow,2025-02-28,5,257,1285,Credit Card
+ORD10293,CUST1072,Backpack,Clothing,Lucknow,2025-10-22,2,1094,2188,Debit Card
+ORD10294,CUST1072,T-Shirt,Clothing,Noida,2025-03-31,2,510,1020,UPI
+ORD10295,CUST1056,Headphones,Electronics,Delhi,2025-01-16,1,1843,1868,Cash
+ORD10296,CUST1055,Cap,Clothing,Kanpur,2025-04-30,3,291,873,Cash
+ORD10297,CUST1022,Jeans,Clothing,Varanasi,2025-06-12,5,1717,8585,UPI
+ORD10298,CUST1048,Wireless Mouse,Electronics,Kanpur,2025-12-15,3,654,1962,Credit Card
+ORD10299,CUST1027,Calculator,Stationery,,2025-03-26,1,496,496,UPI
+ORD10300,CUST1046,Marker Set,Stationery,Agra,2025-03-20,5,189,945,UPI
+ORD10191,CUST1079,Marker Set,Stationery,Lucknow,2025-10-17,2,184,368,UPI
+ORD10065,CUST1046,Water Bottle,Home & Kitchen,Kanpur,2025-01-01,4,335,1340,UPI
+ORD10117,CUST1064,Keyboard,Electronics,Noida,2025-04-18,5,1001,5005,Credit Card

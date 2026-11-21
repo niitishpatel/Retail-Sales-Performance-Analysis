@@ -1,0 +1,19 @@
+Order_ID,Product,Product_Category,City,Quantity,Unit_Price,Revenue,Outlier_Type
+ORD10024,Headphones,Electronics,Lucknow,5,1804,9020,Above Upper Bound
+ORD10072,Webcam,Electronics,Kanpur,4,2417,9668,Above Upper Bound
+ORD10074,Headphones,Electronics,Lucknow,5,1995,9975,Above Upper Bound
+ORD10086,Webcam,Electronics,Kanpur,5,2397,11985,Above Upper Bound
+ORD10110,Hoodie,Clothing,Meerut,5,1331,6655,Above Upper Bound
+ORD10138,Webcam,Electronics,Ghaziabad,5,2305,11525,Above Upper Bound
+ORD10143,Webcam,Electronics,Varanasi,3,2483,7449,Above Upper Bound
+ORD10145,Headphones,Electronics,Lucknow,5,2010,10050,Above Upper Bound
+ORD10164,Headphones,Electronics,Ghaziabad,4,1898,7592,Above Upper Bound
+ORD10183,Headphones,Electronics,Delhi,3,1998,5994,Above Upper Bound
+ORD10185,Headphones,Electronics,Kanpur,5,1664,8320,Above Upper Bound
+ORD10206,Webcam,Electronics,Kanpur,4,2315,9260,Above Upper Bound
+ORD10224,Headphones,Electronics,Ghaziabad,4,1720,6880,Above Upper Bound
+ORD10234,Jeans,Clothing,Agra,5,1663,8315,Above Upper Bound
+ORD10276,Webcam,Electronics,Meerut,3,2600,7800,Above Upper Bound
+ORD10277,Webcam,Electronics,Lucknow,3,2550,7650,Above Upper Bound
+ORD10283,Webcam,Electronics,Ghaziabad,3,2617,7851,Above Upper Bound
+ORD10297,Jeans,Clothing,Varanasi,5,1717,8585,Above Upper Bound
